@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Daniel Borja 👋
 
-<!--
-**jdanbo/jdanbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UX/UI Designer & Frontend Developer** en la intersección del Diseño Industrial y el software.
 
-Here are some ideas to get you started:
+Combino el diseño industrial con el desarrollo web para crear productos digitales que no solo son visualmente atractivos, sino técnicamente viables y genuinamente centrados en las personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lo que aporto
+* **Visión Híbrida:** Diseño con mentalidad de desarrollador y programo con sensibilidad de UX/UI.
+* **Stack & Enfoque:** Frontend interactivo (JavaScript, HTML5, CSS3), bases en backend (Node.js, C#, Python) e IA Generativa (Prompt Engineering / Vibe Coding).
+* **Experiencia:** Optimización de flujos complejos en fintech (Banco Industrial), prototipado en Figma y metodologías ágiles (Scrum).
+
+---
+
+### 📄 Currículum Vitae
+Puedes revisar o descargar mi CV completo en formato PDF aquí:
+👉 **[Descargar Daniel_Borja_CV.pdf](./Daniel_Borja_CV.pdf)**
+
+---
+
+📫 **Contacto:** [LinkedIn](www.linkedin.com/in/di-jdbo) | [Email](mailto:di.jdbo@gmail.com)
