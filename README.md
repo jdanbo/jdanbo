@@ -13,10 +13,4 @@ Combino el diseño industrial con el desarrollo web para crear productos digital
 
 ---
 
-### 📄 Currículum Vitae
-Puedes revisar o descargar mi CV completo en formato PDF aquí:
-👉 **[Descargar Daniel_Borja_CV.pdf](./Daniel_Borja_CV.pdf)**
-
----
-
 📫 **Contacto:** [LinkedIn](www.linkedin.com/in/di-jdbo) | [Email](mailto:di.jdbo@gmail.com)
