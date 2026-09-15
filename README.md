@@ -1,16 +1,31 @@
-# ¡Hola! Soy Daniel Borja 👋
+<div align="center">
 
-**UX/UI Designer & Frontend Developer** en la intersección del Diseño Industrial y el software.
+# Daniel Borja
 
-Combino el diseño industrial con el desarrollo web para crear productos digitales que no solo son visualmente atractivos, sino técnicamente viables y genuinamente centrados en las personas.
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=UX%2FUI+Designer+%26+Frontend+Developer;Dise%C3%B1o+Industrial+%2B+Desarrollo+Web;Productos+Digitales+Centrados+en+el+Usuario;IA+Generativa+%26+Metodolog%C3%ADas+%C3%81giles)
+
+[![Profile views](https://komarev.com/ghpvc/?username=jdambo&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/jdambo)
+[![GitHub](https://img.shields.io/badge/GitHub-jdambo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdambo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-jdbo)
+
+</div>
 
 ---
 
-### 🛠️ Lo que aporto
-* **Visión Híbrida:** Diseño con mentalidad de desarrollador y programo con sensibilidad de UX/UI.
-* **Stack & Enfoque:** Frontend interactivo (JavaScript, HTML5, CSS3), bases en backend (Node.js, C#, Python) e IA Generativa (Prompt Engineering / Vibe Coding).
-* **Experiencia:** Optimización de flujos complejos en fintech (Banco Industrial), prototipado en Figma y metodologías ágiles (Scrum).
+## Identidad tecnica
 
----
+**UX/UI Designer & Frontend Developer** con enfoque en **Diseño de Experiencias y Creación de Productos Digitales Centrados en el Usuario**.
 
-📫 **Contacto:** [LinkedIn](www.linkedin.com/in/di-jdbo) | [Email](mailto:di.jdbo@gmail.com)
+Profesional en Diseño Industrial y Estrategia Digital enfocado en la creación de soluciones digitales intuitivas y viables. Combino la visión estratégica de UX/UI y UX Research con formación técnica en Desarrollo Web Full-Stack e IA Generativa. Mi enfoque conecta las necesidades del negocio con la viabilidad técnica, sirviendo como puente directo entre diseño e ingeniería mediante arquitectura de información, prototipado interactivo y desarrollo frontend.
+
+## Arsenal Campuslands
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mongodb,mysql,git,github,figma,ps,ai,vscode&perline=8" alt="Stack Campuslands" />
+</div>
+
+```text
+Frontend -> HTML5, CSS3, JavaScript (Básico), Figma, Diseño Responsivo
+Backend  -> Node.js (Básico), APIs REST, Python, C#
+Datos    -> MongoDB, MySQL
+Tools    -> Git, GitHub, GitFlow, VS Code, JetBrains Rider, Prompt Engineering
