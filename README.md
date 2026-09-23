@@ -4,8 +4,8 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=UX%2FUI+Designer+%26+Frontend+Developer;Dise%C3%B1o+Industrial+%2B+Desarrollo+Web;Productos+Digitales+Centrados+en+el+Usuario;IA+Generativa+%26+Metodolog%C3%ADas+%C3%81giles)
 
-[![Profile views](https://komarev.com/ghpvc/?username=jdambo&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/jdambo)
-[![GitHub](https://img.shields.io/badge/GitHub-jdambo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdambo)
+[![Profile views](https://komarev.com/ghpvc/?username=jdambo&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/jdanbo)
+[![GitHub](https://img.shields.io/badge/GitHub-jdambo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdanbo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-jdbo)
 
 </div>
@@ -26,6 +26,6 @@ Profesional en Diseño Industrial y Estrategia Digital enfocado en la creación 
 
 ```text
 Frontend -> HTML5, CSS3, JavaScript (Básico), Figma, Diseño Responsivo
-Backend  -> Node.js (Básico), APIs REST, Python, C#
+Backend  -> Node.js (Básico), APIs REST, Python
 Datos    -> MongoDB, MySQL
 Tools    -> Git, GitHub, GitFlow, VS Code, JetBrains Rider, Prompt Engineering
